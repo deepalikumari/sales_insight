@@ -1,2 +1,3 @@
 # sales_insight
-Sales insight to calculate market growth is done on Onlineretail.csv file available on kaggle..Different datamining algo. and EDA concept are used .
+## Data warehousing and pattern mining
+Market growth analysis through sales insights is conducted using the Onlineretail.csv file, which is accessible on Kaggle. Various data mining algorithms and exploratory data analysis concepts are employed for this purpose.
